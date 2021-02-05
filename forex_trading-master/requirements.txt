@@ -1,0 +1,11 @@
+jupyter
+torch
+mplfinance
+numpy
+pandas
+scikit-learn
+gcloud
+tqdm
+lightgbm
+tensorboardX
+torchvision

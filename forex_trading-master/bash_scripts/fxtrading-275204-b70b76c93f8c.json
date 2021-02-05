@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fxtrading-275204",
+  "private_key_id": "b70b76c93f8c2e8df762a985060f69703cd31746",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC0TrDjXOIF+cr7\nrHRCbFpd3KF57sISjzN2PfhQnvTzQobc73v8GJKah9aFwbeYVwVqqBOOSLE+0rlv\n9V4WhJsr0z0TW9z01jBce3zTrgKtBgSUZAQhM/LkGvCrza3/rtp+PXKzpugAx3R3\nJO9moZvRO7XEnW4l7BjB9LbudIEqkzaV9u1y6i6H1xSWvMRK6914qiQ6Yd6Q8dJ4\nm+PPUFmkQAsG7pqYUrKFg6A4nReJ7cJvB9oU+NmZBDSYhdHerTMG51bhxbEsTquN\n1ga4rFTkjBxEVA8H9TI6srWFKNri3btSMN2LQtxPpWlNFCQXCD2sJ7T2xUu7dCaG\njMb3NhLNAgMBAAECggEAIxIUQ2EHYJCt2+Z3BY10RUH7EY+wZXI/mP3kPPAyJle4\nCiS1ubrg1xhZUFJ13rZ8afqvtRLsENNleMKhzqDz2qIfhNKvJ1s69F4bkUPNJvDe\n9qr+h6PGWHpp+gzLTYpp2riihRGPmkkxXNRNEWoZN+kUiZ3ydQNXbHBoHXkBP7Gn\nE2c28I2cO9jsLCdh601XyFB9HkvIBpmh6C6dFRIKAi86ZHF3thO+a9RBjMJH/kKj\nvGc9+f3TnDEF3llAjIdhHpKg1V18HAPhCHS6rCo8EGCFa3k+nIItcRkWRXJd9qXk\n6TpM4F7tFZQZAO4xRSY99/r9xbet58svngbcVjdKQQKBgQDvHrqzOk8NgWxgMNjg\nQ7sNjDBnQP8nfKUE18Nv+iQe1+Ga+mYzdCfjBLZIhloRv3yISbzIE4G9UMN0odkq\nbG20l/9Gc7RClVTosS6jlmC992GcZ5YdiHqikKW0Qnw+h0xz5F/KAVN7m9jHBvhR\nHqW6y/y/MMzsR8HNc5hK75hSDQKBgQDBCSAsylh38vqEVqLgWB5zKIXHdjEjsHNK\nrWbfxhu3DQfYI7YNjRm+yayDwzwxxrbaqUw1GcY+m7v7Q/m/tKSgsLuaUsd+J2Vi\nPK3pW/b8f26dPlNpoguhSU/B9DFsxrti6Oecs11ggF0eH6qVWr/77NDUHERNpixA\nieaQml5TwQKBgQCFfgdGxZead5V0QfDhio5jqs7e5fdMKRbLFFVkLyZ5HZYyefYS\nZZda8qd855xi6h7wyxGcNN+qO+tSMoTVXUEFoBGAWFnbDhkf6sKZyvrpMrEIqv+w\nLyAfn1cSwkcwdUImNOmREZp0mHW17ts0FkL5fKX2ap0Mj6bPNuhfdVD5BQKBgQCd\ns7vie8j87be2iCT2jWcLA68PfkK0+oGmH7Xs2SdpS6796Gbh+UVwNcjHuKejrslS\nKH+G3jC0k3xm0WjnMkhQszIA6OHr8XmFYTdfb29/ZwhSVEnHAcjokkEjnkEGsfEC\n5G3b+jkuDpCEfLBa5lH0Gcudjh5LJZf/femsd0DawQKBgHeNnGkRyCHwkvOxM3vF\nIDdH+dxoz64ULtl4fNc71qawaYyMkVrn7b8ZtZvveSZGTisg5+08+9OrNSq6VH8b\nqReIxtLn0xJsYeSO1DKTvo5kGdSJcpSsI/PO6oP84ubaAqvFPKOgl7HKQ9LscAUl\nK9F3XRDg4Iwa1DcCF/1cgJeo\n-----END PRIVATE KEY-----\n",
+  "client_email": "forextrading@fxtrading-275204.iam.gserviceaccount.com",
+  "client_id": "102801355430490171083",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/forextrading%40fxtrading-275204.iam.gserviceaccount.com"
+}

@@ -1,0 +1,14 @@
+First I made sure that I was able to run a version of python 3.
+
+I created a virtual environment that will have all of the python packages that
+I'll need to run the notebooks, first by downloading virtualenv with `pip3 install virtualenv`, then creating a virtual environment with `virtualenv -p python3 .venv` and activating it using `source .venv/bin/activate`. It doesn't really matter where .venv is (it's a hidden directory), but it makes sense to put it in either the repo or the parent directory of the repo.
+
+After activating the virtual environment, I installed all the necessary software
+using `pip install -r requirements.txt`.
+
+I ran `ipython kernel install --user --name=forex` so that my Jupyter notebook
+could use that same virtual environment and see all the packages I just downloaded.
+
+I started a jupyter server with `jupyter notebook` 
+
+I executed all cells of the notebook `notebooks/download_datasets.ipynb`
